@@ -1,4 +1,4 @@
-# Estilização de Portais Municipais
+# Recomendações de Acessibilidade para Portais Municipais
 
 Para **clonar** o **repositório**:
 1. Necessário ter os seguintes programas: **XAMPP** e **Visual Studio Code** (ou algum outro editor da sua preferência). E instalá-los.
